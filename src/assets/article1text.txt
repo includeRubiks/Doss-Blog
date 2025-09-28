@@ -1,0 +1,15 @@
+Hello and welcome to DOSS Blog, Doug's Open Source Software Blog. This is the first article, 
+and if you can read this, it means my blog is working! There are several things I will be 
+talking about on this blog, such as electronics projects, coding, and some other computer 
+science topics. I am very excited about this, and if you possibly could, when I get my patreon/ 
+donation method set up, please donate. If you want, you don't  have to, I currently don't need 
+any money. Just so you know, and I will be talking about this in the next article, but I think 
+that linux is, by far, the best operating system. In fact, right now I am writing this article 
+on a laptop that I installed Ubuntu on. I also like Raspberry Pi (not the edible kind) for their 
+cheap and affordable computers, I have about 10 raspberry pi zeros alone, and two pi 5s, one is 
+my home server, that, as of now, is only running PiHole (the DNS adblocker). The other one I use 
+as my main computer. I love self-hosting and open source software, and that is where I got the 
+blog name from. By the way, I am Doug, and I probably will not have made any of the software I 
+talk about on this blog, though I hope to become better at software development. Just a bit of 
+credit where credit is due, this blog was inspired by the Hackaday blog, just thought I'd shout
+them out. That is all for today.

@@ -1,0 +1,31 @@
+Hello and welcome to the long awaited game show: Doug's Opinion!
+In this show, I will tell people my opinion even though no one asked.
+Today's hot take: Linux is the best operating system. 
+"So why is linux the best?", you ask, and I will start off by saying
+that linux is completely free. In my opinion, if it is not free, it 
+is not linux. Second of all, linux is (suprisingly for some people) 
+many different operating systems called distributions, or distros,
+and each one has it's own unique thing that makes it useful for some 
+group of people. Take, for example, Kali Linux. Kali Linux is meant for, 
+and I'm not going to sugarcoat it, hacking. Whether ethical or not, that 
+what it is meant for. Ok, now I know that there are some people that hate 
+linux for all the wrong reasons. Take, for example, my friend. This friend
+hates debian, or as he says it, DEE-bian, but really, he hates GNOME the 
+desktop enviroment. He only hates is because I installed in on his old laptop 
+(after he ran a virus on it, nonetheless) to make it useful again, but he 
+hated it purely because he could not run windows malware on it. Is that really 
+a downside for most people? No, I would say not. That was a segue to my next 
+point: linux is (somewhat) safer than windows. If you have looked at a graph, 
+you can see that most people don't use linux, but windows. Why is this? Because 
+in the early days of linux, it was a very hard operating system to use, and it 
+still has the reputation, though in reality, it is not too complex (at least for 
+some distros, others are insanely hard). The second reason not many people use 
+linux is windows is kind of the sweet spot between price and ease of use for most 
+people if you factor in the cost of the PC, whereas apple hardware is damn expensive, 
+so not many people have it. Either way, you are buying a computer from a store with 
+the operating system preinstalled on it. With linux, you have to install it (for most 
+computers-some come with linux, and kudos to those manufacturers, but more do not, and so you have to install it). 
+This leads to many people not wanting to get it in fear that they will break their computer.
+This, believe it or not, is a very good thing. This means that if linux stays exclusive to 
+mostly people who know how not to get viruses, then malware creators will not want to make malware for it.
+Ok, that is all for this article, I hope I convinced you to get linux. 
