@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://includerubiks.github.io/Doss-Blog",
+  "homepage": "https://includerubiks.github.io/Doss-Blog",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
